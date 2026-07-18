@@ -1,0 +1,25 @@
+{
+  "name": "ticketbooking-project",
+  "version": "1.0.0",
+  "description": "This is a ticket booking project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/explorer639/TicketBooking-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/explorer639/TicketBooking-Project/issues"
+  },
+  "homepage": "https://github.com/explorer639/TicketBooking-Project#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
